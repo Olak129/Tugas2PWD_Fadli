@@ -18,6 +18,12 @@
     --white: #f5f5f5;
 }
 
+[data-theme="dark"] .intro-copy,
+[data-theme="dark"] .interaction-button,
+[data-theme="dark"] .plain-list li {
+    color: #ffffff;
+}
+
 * {
     box-sizing: border-box;
 }
